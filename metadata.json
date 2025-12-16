@@ -1,0 +1,8 @@
+{
+  "name": "NOHA Streaming",
+  "description": "A premium video streaming application featuring the latest movies and series with an AI-powered recommendation engine and multi-tier subscription plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
